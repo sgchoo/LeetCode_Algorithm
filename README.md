@@ -107,10 +107,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
