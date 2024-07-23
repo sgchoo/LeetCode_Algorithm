@@ -2,9 +2,10 @@ class Solution:
     def isHappy(self, n: int) -> bool:
         temp = str(n)
         happyNum = 0
+        resultList = []
 
         while True:
-            if temp == '2' or temp == '4' or temp == '16':
+            if temp in resultList:
                 break
             
             for i in temp:
@@ -13,6 +14,7 @@ class Solution:
             if happyNum == 1:
                 return True
 
+            resultList.append(temp)
             temp = str(happyNum)
             happyNum = 0
 
