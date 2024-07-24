@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0242-valid-anagram) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0219-contains-duplicate-ii) |
@@ -143,11 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
