@@ -156,8 +156,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0057-insert-interval) |
 | [0219-contains-duplicate-ii](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0219-contains-duplicate-ii) |
+| [0945-snakes-and-ladders](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0945-snakes-and-ladders) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0219-contains-duplicate-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0945-snakes-and-ladders) |
+## Matrix
+|  |
+| ------- |
+| [0945-snakes-and-ladders](https://github.com/sgchoo/LeetCode_Algorithm/tree/master/0945-snakes-and-ladders) |
 <!---LeetCode Topics End-->
